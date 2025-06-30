@@ -98,3 +98,6 @@ npm run dev
 
 🤝 Contribuição
 Este projeto foi desenvolvido como parte de um projeto prático na área de saúde odontológica, com foco em trazer soluções reais para o atendimento clínico digital.
+
+[API também desenvolvida por mim inclusa neste deploy ](https://github.com/Jo4oV1ctorr/odontologia)
+
